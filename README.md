@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hola, soy Vinicio Ricci</h1>
-  <h3>Soy un estudiante de ingenieria en sistemas, me gusta aprender cosas nuevas de programacion y leer</h3>
+  <h3>Soy un estudiante de ingenieria en sistemas, me gusta aprender cosas nuevas de programacion</h3>
 </div>
 
 ---
